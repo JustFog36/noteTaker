@@ -9,5 +9,8 @@ Javascript, Node, NPM, express, html, css, fs
 2. Click on take notes.
 3. Add, delete, or view notes.
 
-## Deployed webpage
+## Example of webpage
 <img src="/imgs/deployed_page.PNG">
+
+## Deployed Webpage
+Click <a href="https://notetaker1119-265f13ee98cd.herokuapp.com/">here</a>
